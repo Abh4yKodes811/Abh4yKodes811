@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abhay Kumar Sharma</h1>
 
-<!-- <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Computer+Science+Student;Google+Cloud+Certified;Web+Development+Enthusiast;QA+Engineering+Aspirant;Learning+AI+%26+Machine+Learning;Always+Learning+%26+Creating" />
-</p> -->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Computer+Science+Student;Web+Development+Enthusiast;QA+Engineering+Aspirant;Learning+AI+%26+Machine+Learning;Always+Learning+%26+Creating" />
+</p> 
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Abh4yKodes811&label=Profile+Views&color=blueviolet&style=for-the-badge" />
