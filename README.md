@@ -88,12 +88,8 @@ Currently building and experimenting with AI/ML projects using Google Cloud tech
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Abh4yKodes811&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Abh4yKodes811&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abh4yKodes811&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Abh4yKodes811&show_icons=true&theme=radical" alt="Abhay's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abh4yKodes811&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -101,7 +97,7 @@ Currently building and experimenting with AI/ML projects using Google Cloud tech
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Abh4yKodes811&theme=tokyonight&margin-w=10"/>
+  <img src="https://github-profile-trophies.vercel.app/?username=Abh4yKodes811&theme=radical" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -109,7 +105,7 @@ Currently building and experimenting with AI/ML projects using Google Cloud tech
 ## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abh4yKodes811&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abh4yKodes811&theme=github-dark" alt="Activity Graph" />
 </p>
 
 ---
