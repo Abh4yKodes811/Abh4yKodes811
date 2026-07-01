@@ -84,12 +84,10 @@ Currently building and experimenting with AI/ML projects using Google Cloud tech
 </p>
 
 ---
-
-## 📊 GitHub Stats
+## 📊 GitHub Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abh4yKodes811&show_icons=true&theme=radical" alt="Abhay's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abh4yKodes811&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abh4yKodes811&theme=radical" alt="Abhay's Streak Stats" />
 </p>
 
 ---
@@ -102,7 +100,7 @@ Currently building and experimenting with AI/ML projects using Google Cloud tech
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abh4yKodes811&theme=github-dark" alt="Activity Graph" />
