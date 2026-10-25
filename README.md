@@ -84,28 +84,6 @@ Currently building and experimenting with AI/ML projects using Google Cloud tech
 </p>
 
 ---
-## 📊 GitHub Streak Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abh4yKodes811&theme=radical" alt="Abhay's Streak Stats" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophies.vercel.app/?username=Abh4yKodes811&theme=radical" alt="GitHub Trophies" />
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abh4yKodes811&theme=github-dark" alt="Activity Graph" />
-</p>
-
 ---
 
 ## 🐍 Contribution Snake
@@ -120,7 +98,7 @@ Currently building and experimenting with AI/ML projects using Google Cloud tech
 
 🏅 NPTEL Certified in Cloud Computing & Cloud Architecture
 
-🏅 Currently pursuing the Google Cloud AI/ML Professional Certificate through Coursera
+🏅 Google Cloud AI/ML Professional Certificate through Coursera
 
 ---
 
